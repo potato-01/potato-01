@@ -30,8 +30,9 @@
         <a target="_blank"><img alt="C++" src="https://img.shields.io/badge/C++-85%25-%237d5fff">
         </a>
         
-        ![visitors](https://visitor-badge.laobi.icu/badge?page_id=potato-01.potato-01)
 </p>
+        ![visitors](https://visitor-badge.laobi.icu/badge?page_id=potato-01.potato-01)
+
 
 <!-- Details Section-->
 <details align="center">
