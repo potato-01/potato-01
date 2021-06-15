@@ -71,7 +71,7 @@
     <p align="center">
         ════ ⋆★⋆ ════
         <br>
-        <img height="120" alt="Thanks for visiting me" width="100%" src="https://drive.google.com/file/d/1Vu2KYbBJS8nRhcdwg6jLRdORXpQiKXBw/view?usp=sharing" />
+        <img height="120" alt="Thanks for visiting me" width="100%" src="gs://sajadsamer-44534.appspot.com/thxfromme.svg" />
     </p>
 </samp>
 
