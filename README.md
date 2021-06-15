@@ -2,7 +2,6 @@
 # Hi I'm Potato 👋
 Welcome to my profile! i'm a software developer from Iraq-Baghdad. Thanks for visiting and I'd love to connect!
 <!--Website -->
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 <p>
 <a href="https://blog.aoaoao.me" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Blog-%23FF4088.svg?&style=for-the-badge&logo=hugo&logoColor=white" /></a>
@@ -25,3 +24,4 @@ Welcome to my profile! i'm a software developer from Iraq-Baghdad. Thanks for vi
 <p align="center">
   <img width="250" src="https://media1.tenor.com/images/b06111ca4f61490fe7dc535e0250d603/tenor.gif">
 </p>
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
