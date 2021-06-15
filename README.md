@@ -24,10 +24,10 @@
         <a target="_blank"><img alt="Angular" src="https://img.shields.io/badge/Angular-90%25-%23ff6b6b">
         </a>
         <!-- Ionic -->
-        <a target="_blank"><img alt="Ionic" src="https://img.shields.io/badge/JavaScript-85%25-%234b7bec">
+        <a target="_blank"><img alt="Ionic" src="https://img.shields.io/badge/Ionic-85%25-%234b7bec">
         </a>
         <!-- C++ -->
-        <a target="_blank"><img alt="C++" src="https://img.shields.io/badge/JavaScript-85%25-%237d5fff">
+        <a target="_blank"><img alt="C++" src="https://img.shields.io/badge/C++-85%25-%237d5fff">
         </a>
 </p>
 
