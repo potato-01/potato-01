@@ -21,13 +21,13 @@
         <a target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-95%25-%23f7b731">
         </a>
         <!-- Angular -->
-        <a target="_blank"><img alt="Angular" src="https://img.shields.io/badge/JavaScript-95%25-%23eb3b5a">
+        <a target="_blank"><img alt="Angular" src="https://img.shields.io/badge/JavaScript-90%25-%23eb3b5a">
         </a>
         <!-- Ionic -->
-        <a target="_blank"><img alt="Ionic" src="https://img.shields.io/badge/JavaScript-95%25-%234b7bec">
+        <a target="_blank"><img alt="Ionic" src="https://img.shields.io/badge/JavaScript-85%25-%234b7bec">
         </a>
         <!-- C++ -->
-        <a target="_blank"><img alt="C++" src="https://img.shields.io/badge/JavaScript-95%25-%237d5fff">
+        <a target="_blank"><img alt="C++" src="https://img.shields.io/badge/JavaScript-85%25-%237d5fff">
         </a>
 </p>
 
