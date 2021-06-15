@@ -1,6 +1,6 @@
 
 <!-- Intro  -->
-# Hello I'm Potato 👋
+<h3 align="center"># Hello I'm Potato 👋</h3>
 <p align="center">
         <!-- Organisation  -->
         <samp>
