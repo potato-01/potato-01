@@ -4,9 +4,9 @@
 <p align="center">
         <!-- Organisation  -->
         <samp>
-                「 From Dhaka, Bangladesh 」
+                「 From Iraq, Baghdad 」
                 <br>
-                「 Student, Computer Science & Engineering @<b> University of Asia Pacific</b> 」
+                「 IT, Software Developer @<b> UOITC</b> 」
                 <br>
                 <br>
         </samp>
