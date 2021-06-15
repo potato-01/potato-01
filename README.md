@@ -1,19 +1,6 @@
 
-<!-- https://github.com/ShahriarShafin/ -->
-<!-- April 15, 2021 -->
-<!-- leave a STAR, if you like it ! -->
-
-<!-- Profile Views Counter -->
-![Profile views](https://gpvc.arturio.dev/ShahriarShafin?v=3)
-
 <!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hello World!, I am
-                <b><a target="_blank" href="https://shahriarshafin.me/">Shahriar Shafin</a></b>
-        </samp>
-</h3>
-<br>
-
+# Hello I'm Potato 👋
 <p align="center">
         <!-- Organisation  -->
         <samp>
