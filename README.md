@@ -1,37 +1,18 @@
 
+# Hi I'm Potato 👋
+Welcome to my profile! i'm a software developer from Iraq-Baghdad. Thanks for visiting and I'd love to connect!
+<!--Website -->
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/cusastudio)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/mwlite/in/sajad-samir-210b771a5)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://sajadsamer.me)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/people/Sajad-Samer/100008228555745)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=potato-01.potato-01)
 
+![Potato's github stats](https://github-readme-stats.vercel.app/api?username=potato-0&show_icons)
 
-<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I like to write in <s>Python</s> Code and I'm exploring Cloud Tech 🐍 ☁️ </samp></h4>
+<!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)]()
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-e4405f?style=flat-square&logo=Youtube&logoColor=white)]() -->
 
 <p align="center">
   <img width="250" src="https://media1.tenor.com/images/b06111ca4f61490fe7dc535e0250d603/tenor.gif">
 </p>
-
-
-<p align="center">
-<a href= "https://dev.to/ari_hacks"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
-<a href= "https://twitter.com/ari_hacks"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
-<a href= "https://ko-fi.com/ari_hacks"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
-</p>
-
-<p align="center"><samp>
-Check out my repos ⬇️  
-  </samp>
-</p>
-
-![](https://visitor-badge.glitch.me/badge?page_id=ari-hacks.ari-hacks)
-
-<!--
-**ari-hacks/ari-hacks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
