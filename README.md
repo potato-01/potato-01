@@ -21,7 +21,7 @@
         <a target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-95%25-%23f7b731">
         </a>
         <!-- Angular -->
-        <a target="_blank"><img alt="Angular" src="https://img.shields.io/badge/Angular-90%25-%23ff6b6ba">
+        <a target="_blank"><img alt="Angular" src="https://img.shields.io/badge/Angular-90%25-%23ff6b6b">
         </a>
         <!-- Ionic -->
         <a target="_blank"><img alt="Ionic" src="https://img.shields.io/badge/JavaScript-85%25-%234b7bec">
