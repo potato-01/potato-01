@@ -15,19 +15,19 @@
         <a target="_blank"><img alt="HTML" src="https://img.shields.io/badge/HTML-95%25-%23ff6b6b">
         </a>
         <!-- CSS  -->
-        <a target="_blank"><img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
+        <a target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS-95%25-%2345aaf2">
         </a>
         <!-- JavaScript -->
-        <a target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-23F79F1F?style=flat-square&logo=JavaScript&logoColor=white">
+        <a target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-95%25-%23f7b731">
         </a>
         <!-- Angular -->
-        <a target="_blank"><img alt="Angular" src="https://img.shields.io/badge/-JavaScript-23F79F1F?style=flat-square&logo=JavaScript&logoColor=white">
+        <a target="_blank"><img alt="Angular" src="https://img.shields.io/badge/JavaScript-95%25-%23eb3b5a">
         </a>
         <!-- Ionic -->
-        <a target="_blank"><img alt="Ionic" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+        <a target="_blank"><img alt="Ionic" src="https://img.shields.io/badge/JavaScript-95%25-%234b7bec">
         </a>
         <!-- C++ -->
-        <a target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C++-9b3675?style=flat-square&logo=C%2B%2B&logoColor=white">
+        <a target="_blank"><img alt="C++" src="https://img.shields.io/badge/JavaScript-95%25-%237d5fff">
         </a>
 </p>
 
