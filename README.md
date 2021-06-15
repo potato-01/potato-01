@@ -31,8 +31,7 @@
         </a>
         
 </p>
-        ![visitors](https://visitor-badge.laobi.icu/badge?page_id=potato-01.potato-01)
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=potato-01.potato-01)
 
 <!-- Details Section-->
 <details align="center">
