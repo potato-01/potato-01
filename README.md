@@ -18,7 +18,7 @@
         <a target="_blank"><img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
         </a>
         <!-- JavaScript -->
-        <a target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+        <a target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-23F79F1F?style=flat-square&logo=JavaScript&logoColor=white">
         </a>
         <!-- Angular -->
         <a target="_blank"><img alt="Angular" src="https://img.shields.io/cocoapods/metrics/doc-percent/AFNetworking?color=%238c7ae6&label=Angular&logo=angular&style=flat-square">
