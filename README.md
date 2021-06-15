@@ -4,7 +4,7 @@
 <h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I like to write in <s>Python</s> Code and I'm exploring Cloud Tech 🐍 ☁️ </samp></h4>
 
 <p align="center">
-  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+  <img width="250" src="https://media1.tenor.com/images/b06111ca4f61490fe7dc535e0250d603/tenor.gif">
 </p>
 
 
