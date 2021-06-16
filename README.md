@@ -62,7 +62,6 @@
     </p>
 </details>
 <br>
-
 <!-- Footer -->
 <samp>
     <p align="center">
@@ -71,10 +70,4 @@
         <img height="120" alt="Thanks for visiting me" width="100%" src="https://firebasestorage.googleapis.com/v0/b/sajadsamer-44534.appspot.com/o/thxfromme.svg?alt=media&token=e2f86620-a893-4731-a706-cc3ca1b1e9e7" />
     </p>
 </samp>
-
-
-
-<a href="https://blog.aoaoao.me" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Blog-%23FF4088.svg?&style=for-the-badge&logo=hugo&logoColor=white" /></a>
-<a href="https://github.com/HFO4" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=potato-01.potato-01)
