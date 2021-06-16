@@ -72,3 +72,7 @@
 </samp>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=potato-01.potato-01)
+
+
+<!-- <a href="" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Blog-%23FF4088.svg?&style=for-the-badge&logo=hugo&logoColor=white" /></a>
+<a href="" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> -->
