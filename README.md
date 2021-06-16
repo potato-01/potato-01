@@ -34,7 +34,7 @@
 
 <!-- Details Section-->
 <details align="center">
-    <summary> <samp>&#9776; My Status</samp></summary>
+    <summary> <samp>&#9776; More</samp></summary>
     <p align="center">
         <br>
         <!-- Activity Widget -->
@@ -43,26 +43,22 @@
         <br>
         <!-- Social Links -->
         <p>Find me on</p>
-        <!-- Gmail -->
-        <a href="" target="_blank"><img alt="Gmail"
-                src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
-        </a>
         <!-- Facebook -->
-        <a href="" target="_blank"><img alt="Facebook"
+        <a href="https://www.facebook.com/people/Sajad-Samer/100008228555745/" target="_blank"><img alt="Facebook"
                 src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white">
         </a>
         <!-- Instagram -->
-        <a href="" target="_blank"><img alt="Instagram"
+        <a href="https://www.instagram.com/cusastudio/" target="_blank"><img alt="Instagram"
                 src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
         </a>
         <!-- Linkedin -->
-        <a href="" target="_blank"><img alt="Linkedin"
+        <a href="https://www.linkedin.com/in/sajad-samir-210b771a5/" target="_blank"><img alt="Linkedin"
                 src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
         </a>
         <!-- Youtube -->
-        <a href="" target="_blank"><img alt="Youtube"
+        <!-- <a href="" target="_blank"><img alt="Youtube"
                 src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white">
-        </a>
+        </a> -->
     </p>
 </details>
 <br>
