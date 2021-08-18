@@ -48,7 +48,7 @@
                 src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white">
         </a>
         <!-- Instagram -->
-        <a href="https://www.instagram.com/cusastudio/" target="_blank"><img alt="Instagram"
+        <a href="https://www.instagram.com/s0j_6" target="_blank"><img alt="Instagram"
                 src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
         </a>
         <!-- Linkedin -->
